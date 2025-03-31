@@ -1,0 +1,23 @@
+{
+  "name": "testrepoci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oneFileSoft/testRepoCI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/oneFileSoft/testRepoCI/issues"
+  },
+  "homepage": "https://github.com/oneFileSoft/testRepoCI#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.51.1",
+    "@types/node": "^22.13.14"
+  }
+}
